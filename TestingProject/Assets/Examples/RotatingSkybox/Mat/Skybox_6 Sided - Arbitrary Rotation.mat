@@ -50,11 +50,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _Exposure: 0.6
-    - _Rotation: 121.43128
+    - _Rotation: 143.65971
     - _RotationAxisX: 1
     - _RotationAxisY: 0
     - _RotationAxisZ: 0
     m_Colors:
-    - _RotationAxis: {r: 1, g: -0.1210384, b: 0, a: 0}
+    - _RotationAxis: {r: 1, g: -0.077739134, b: 0, a: 0}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
   m_BuildTextureStacks: []
