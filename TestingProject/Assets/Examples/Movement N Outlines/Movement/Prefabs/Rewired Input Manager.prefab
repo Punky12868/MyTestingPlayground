@@ -296,6 +296,15 @@ MonoBehaviour:
       _behaviorId: 0
       _userAssignable: 0
       _categoryId: 0
+    - _id: 39
+      _name: YAxis
+      _type: 0
+      _descriptiveName: YAxis
+      _positiveDescriptiveName: Y Up
+      _negativeDescriptiveName: Y Down
+      _behaviorId: 0
+      _userAssignable: 0
+      _categoryId: 0
     - _id: 18
       _name: Horizontal
       _type: 0
@@ -355,7 +364,7 @@ MonoBehaviour:
     actionCategoryMap:
       list:
       - categoryId: 0
-        actionIds: 120000001100000026000000230000002400000025000000
+        actionIds: 12000000110000002700000026000000230000002400000025000000
       - categoryId: 2
         actionIds: 0b0000000c0000000d0000000e0000000f000000
     inputBehaviors:
@@ -646,6 +655,28 @@ MonoBehaviour:
         _modifierKey2: 0
         _modifierKey3: 0
       - _actionCategoryId: 0
+        _actionId: 39
+        _elementType: 1
+        _elementIdentifierId: -1
+        _axisRange: 0
+        _invert: 0
+        _axisContribution: 0
+        _keyboardKeyCode: 101
+        _modifierKey1: 0
+        _modifierKey2: 0
+        _modifierKey3: 0
+      - _actionCategoryId: 0
+        _actionId: 39
+        _elementType: 1
+        _elementIdentifierId: -1
+        _axisRange: 0
+        _invert: 0
+        _axisContribution: 1
+        _keyboardKeyCode: 113
+        _modifierKey1: 0
+        _modifierKey2: 0
+        _modifierKey3: 0
+      - _actionCategoryId: 0
         _actionId: 35
         _elementType: 1
         _elementIdentifierId: -1
@@ -841,7 +872,7 @@ MonoBehaviour:
     controllerMapLayoutManagerRuleSets: []
     controllerMapEnablerRuleSets: []
     playerIdCounter: 2
-    actionIdCounter: 39
+    actionIdCounter: 40
     actionCategoryIdCounter: 3
     inputBehaviorIdCounter: 1
     mapCategoryIdCounter: 2
