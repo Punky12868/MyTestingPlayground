@@ -98,9 +98,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 768
   outlineSettings:
-    outlineColor: {r: 1, g: 1, b: 1, a: 1}
-    outlineScale: 2
-    depthThreshold: 14
+    outlineColor: {r: 0, g: 0, b: 0, a: 1}
+    outlineScale: 3.4
+    depthThreshold: 88
     robertsCrossMultiplier: 500
     normalThreshold: 0.5
     steepAngleThreshold: 1.58
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b6c13e0b82415247a74e6839d8cc2ac, type: 3}
   m_Name: PixelizeFeature
   m_EditorClassIdentifier: 
-  m_Active: 0
+  m_Active: 1
   settings:
     renderPassEvent: 500
-    screenHeight: 250
+    screenHeight: 150
